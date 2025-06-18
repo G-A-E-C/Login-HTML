@@ -2,6 +2,14 @@
 
 A modern, responsive and professional login page built with HTML, CSS and JavaScript.
 
+## Vista previa
+
+A continuación se muestran capturas de la interfaz en modo claro y modo noche:
+
+![Vista modo claro](views/view.png)
+
+![Vista modo noche](views/viewNight.png)
+
 ## Features
 
 - **Responsive Design:** Adapts to both desktop and mobile views, with toggle controls for preview.
