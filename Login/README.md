@@ -2,17 +2,17 @@
 
 A modern, responsive and professional login page built with HTML, CSS and JavaScript.
 
-## Vista previa
+## Preview
 
-A continuación se muestran capturas de la interfaz en modo claro, modo noche, recuperación de contraseña y registro:
+The following screenshots show the interface in light mode, night mode, password recovery, and registration:
 
-![Vista modo claro](views/view.png)
+![Light Mode View](views/view.png)
 
-![Vista modo noche](views/viewNight.png)
+![Night Mode View](views/viewNight.png)
 
-![Vista recuperación de contraseña](views/viewFP.png)
+![Password Recovery View](views/viewFP.png)
 
-![Vista registro](views/viewSingUp.png)
+![Registration View](views/viewSingUp.png)
 
 ## Features
 
@@ -49,10 +49,6 @@ Login/
 
 - Edit `login.html` and `login.css` to adjust colors, texts, or add new features.
 - All modal dialogs and feedback messages are in English for professional presentation.
-
-## Preview
-
-![Login Page Preview](preview.png)
 
 ---
 
