@@ -4,11 +4,15 @@ A modern, responsive and professional login page built with HTML, CSS and JavaSc
 
 ## Vista previa
 
-A continuación se muestran capturas de la interfaz en modo claro y modo noche:
+A continuación se muestran capturas de la interfaz en modo claro, modo noche, recuperación de contraseña y registro:
 
 ![Vista modo claro](views/view.png)
 
 ![Vista modo noche](views/viewNight.png)
+
+![Vista recuperación de contraseña](views/viewFP.png)
+
+![Vista registro](views/viewSingUp.png)
 
 ## Features
 
